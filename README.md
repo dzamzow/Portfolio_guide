@@ -5,4 +5,4 @@ A collection of my projects and professional development activities.
 
 | Project Link | Date of Completion | Tools | Abstract |
 | ------------ | ------------------ | ----- | -------- |
-| Project 1    |                    |       |          |
+| https://www.kaggle.com/code/derrickzamzow/google-capstone-project-bellabeat/settings    |                    |       |          |
